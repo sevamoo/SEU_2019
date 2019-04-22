@@ -1,11 +1,13 @@
+
+Lecture notes and codes
+
+
 # Urban and Architectural Modeling with Machine Learning and Big Data
 
-## Institute of Architectural Algorithms and Applications
-## South East University, Nanjing, China  
+- **Institute of Architectural Algorithms and Applications**
+- **South East University, Nanjing, China**  
 
 
-
-# Lecture notes and codes
 
 <hr style="height:3px;border:none;color:stillblue;background-color:black;" />
 
