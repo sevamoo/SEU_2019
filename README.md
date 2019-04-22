@@ -10,5 +10,4 @@
 
 [Vahid Moosavi](https://vahidmoosavi.com/)
 
-<img style="float: left;" src="../Images/ETH_logo.jpg">
-<a></a>
+![](/Images/ETH_logo.jpg)
